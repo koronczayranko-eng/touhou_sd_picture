@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-07-24T11:48:40.515140+00:00",
+  "character": "suika",
+  "trigger": "touhou_suika",
+  "base_model": "/home/ubuntu/touhou-lab/models/base/sd15",
+  "lora_weights": "/home/ubuntu/touhou-lab/models/lora/suika/rank8-256/checkpoint-150/pytorch_lora_weights.safetensors",
+  "prompt": "touhou_suika, Suika Ibuki, 1girl, solo, anime illustration, oni horns, gourd, festive",
+  "negative_prompt": "low quality, worst quality, blurry, text, watermark, extra fingers",
+  "steps": 25,
+  "guidance": 7.0,
+  "width": 384,
+  "height": 384,
+  "seed": 20260724
+}
