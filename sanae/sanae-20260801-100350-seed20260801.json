@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-08-01T10:03:50.402845+00:00",
+  "character": "sanae",
+  "trigger": "touhou_sanae",
+  "base_model": "/home/ubuntu/touhou-lab/models/base/sd15",
+  "lora_weights": "/home/ubuntu/touhou-lab/models/lora/sanae/rank8-256/pytorch_lora_weights.safetensors",
+  "prompt": "touhou_sanae, Sanae Kochiya, 1girl, solo, anime illustration, shrine maiden, snake motif, green hair",
+  "negative_prompt": "low quality, worst quality, blurry, text, watermark, extra fingers",
+  "steps": 25,
+  "guidance": 7.0,
+  "width": 384,
+  "height": 384,
+  "seed": 20260801
+}
