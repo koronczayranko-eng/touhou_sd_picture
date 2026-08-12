@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-08-11T15:22:59.289618+00:00",
+  "character": "suwako",
+  "trigger": "touhou_suwako",
+  "base_model": "/home/ubuntu/touhou-lab/models/base/sd15",
+  "lora_weights": "/home/ubuntu/touhou-lab/models/lora/suwako/rank8-256-s400/pytorch_lora_weights.safetensors",
+  "prompt": "touhou_suwako, Suwako Moriya, 1girl, solo, anime illustration, frog motif, hat, shrine background",
+  "negative_prompt": "low quality, worst quality, blurry, text, watermark, extra fingers",
+  "steps": 25,
+  "guidance": 7.0,
+  "width": 384,
+  "height": 384,
+  "seed": 20260811
+}
