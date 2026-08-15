@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-08-14T16:03:02.761937+00:00",
+  "character": "marisa",
+  "trigger": "touhou_marisa",
+  "base_model": "/home/ubuntu/touhou-lab/models/base/sd15",
+  "lora_weights": "/home/ubuntu/touhou-lab/models/lora/marisa/rank8-256/pytorch_lora_weights.safetensors",
+  "prompt": "touhou_marisa, Marisa Kirisame, 1girl, solo, anime illustration, witch hat, blonde hair, magic",
+  "negative_prompt": "low quality, worst quality, blurry, text, watermark, extra fingers",
+  "steps": 25,
+  "guidance": 7.0,
+  "width": 384,
+  "height": 384,
+  "seed": 20260814
+}
