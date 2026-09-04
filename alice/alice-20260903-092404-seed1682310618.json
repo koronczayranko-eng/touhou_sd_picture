@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-09-03T09:24:04.780502+00:00",
+  "character": "alice",
+  "trigger": "touhou_alice",
+  "base_model": "/home/ubuntu/touhou-lab/models/base/sd15",
+  "lora_weights": "/home/ubuntu/touhou-lab/models/lora/alice/v2-rank8-384/pytorch_lora_weights.safetensors",
+  "prompt": "touhou_alice, Alice Margatroid, 1girl, solo, anime illustration, doll, puppeteer, blonde hair",
+  "negative_prompt": "low quality, worst quality, blurry, text, watermark, extra fingers",
+  "steps": 375,
+  "guidance": 7.5,
+  "width": 512,
+  "height": 512,
+  "seed": 1682310618
+}
